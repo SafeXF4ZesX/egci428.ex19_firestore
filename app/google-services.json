@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049244787565",
+    "project_id": "ecgi428-7f3d1",
+    "storage_bucket": "ecgi428-7f3d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049244787565:android:6e208a7607c9e9a5f77064",
+        "android_client_info": {
+          "package_name": "com.ecgi428.ex19_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhkdPoGjjDGqCTDPGOP0u-IWSEAmdO2QY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
